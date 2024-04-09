@@ -1,0 +1,31 @@
+header {
+    background-color: chocolate;
+    padding: 100px;
+}
+
+#intro {
+    margin: 10px;
+    background-color: blue;
+}
+
+
+
+#skills li {padding: 5px;
+    margin: 5px;
+    }
+
+
+#contact {
+    background-color: chartreuse;
+    padding: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 15%;
+    padding: 5px;
+}
+
+input {
+    
+}
